@@ -11,6 +11,9 @@ packages are:
 * dplyr
 * data.table
 
+Note that the raw / source data is located in the **data** subdirectory relative to the root of the
+Git repo.  The run_analysis.R script will look for its data files in that directory.
+
 ## Running the code
 
 Once installed, you can run this analysis a couple of different ways.
